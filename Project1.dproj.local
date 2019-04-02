@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.861,=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,C:\Users\Sergey\Documents\RAD Studio\Projects\Unit2.pas=D:\Sergey\Delphi\sdk2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.pas=D:\Sergey\Delphi\sdk2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,C:\Users\Sergey\Documents\RAD Studio\Projects\Project1.dproj=D:\Sergey\Delphi\sdk2\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,C:\Users\Sergey\Documents\RAD Studio\Projects\Unit2.dfm=D:\Sergey\Delphi\sdk2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.101,=D:\Sergey\Delphi\sdk2\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Users\Sergey\Documents\RAD Studio\Projects\Unit1.dfm=D:\Sergey\Delphi\sdk2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,=D:\Sergey\Delphi\sdk2\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
